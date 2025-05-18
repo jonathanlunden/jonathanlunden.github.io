@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio of Jonathan Lundén
 A small collection of projects I have worked on.
 
 I'm a recent graduate looking for developer opportunities in Barcelona!
