@@ -8,7 +8,7 @@ I'm a recent graduate looking for developer opportunities in Barcelona!
 - SQL
 
 ## 📂 Projects
-- [Closest Points](https://github.com/jonathanlunden/closestpoints) – Calculation of closest points in a two-dimensional coordinate system using the divide and conquer algorithm.
+- [Closest Points](https://github.com/jonathanlunden/closestpoints) – Calculation of closest points in a two-dimensional space using the divide and conquer algorithm.
 
 ## 📫 Contact
 - [LinkedIn](https://linkedin.com/in/jonathan-lund%C3%A9n-086b5a223/)
