@@ -1,4 +1,4 @@
-# jonathanlunden.github.io
+# Portfolio
 A small collection of projects I have worked on.
 
 I'm a recent graduate looking for developer opportunities in Barcelona!
